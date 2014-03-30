@@ -1,4 +1,4 @@
-dot_vim
+Pinter's dotvim files
 =======
 
 Yet another .vim configuration. If you're gonna fork a someone's vim configuration it might as
